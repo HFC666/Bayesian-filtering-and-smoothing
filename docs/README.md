@@ -1,4 +1,4 @@
-# Introduction to Mathematical Statistics
+# Bayesian filtering and smoothing
 
 ![](image/cover.png)
 

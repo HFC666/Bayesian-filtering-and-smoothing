@@ -12,6 +12,16 @@
   * [贝叶斯点估计](note/chapter2/贝叶斯点估计.md)
   * [数值方法](note/chapter2/数值方法.md)
   * [练习](note/chapter2/练习.md)
+* [批量和递归贝叶斯估计](note/chapter3/批量和递归贝叶斯估计.md)
+  * [批量线性回归](note/chapter3/批量线性回归.md)
+  * [递归线性回归](note/chapter3/递归线性回归.md)
+  * [批量估计与递归估计](note/chapter3/批量估计与递归估计.md)
+  * [线性回归的漂移模型](note/chapter3/线性回归的漂移模型.md)
+  * [具有漂移的线性回归的状态空间模型](note/chapter3/具有漂移的线性回归的状态空间模型.md)
+  * [状态空间模型的示例](note/chapter3/状态空间模型的示例.md)
+  * [练习](note/chapter3/练习.md)
+
+
 
 
 
